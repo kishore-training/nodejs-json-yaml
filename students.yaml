@@ -1,0 +1,30 @@
+---
+courses:
+  - name: JSON-tutorial
+    Student:
+      - name: John
+        age: 32
+        member: true
+        languages:
+          - English
+          - French
+      - name: Sam
+        age: 22
+        member: true
+        languages:
+          - English
+          - Spanish
+  - name: YAML-tutorial
+    Student:
+      - name: Sundar
+        age: 28.5
+        member: false
+        languages:
+          - English
+          - Hindi
+      - name: Raj
+        age: 35
+        member: true
+        languages:
+          - English
+          - Sanskrit
